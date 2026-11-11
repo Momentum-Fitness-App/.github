@@ -106,5 +106,5 @@ Production is served from `momentum.makbn.com` through a Cloudflare Tunnel and d
 today. The backend maintainer's next job is to automate that: either a CI deploy to the current
 host, or moving the backend to @BeardedDonut's environment behind the same hostname. The full
 current setup, both options step by step, and the open backend work are in
-[`organization.md`](https://github.com/Momentum-Fitness-App/momentum-app/blob/master/organization.md)
+[`organization.md`](https://github.com/Momentum-Fitness-App/.github/blob/main/profile/README.md)
 (members only). Decide in Discussions.
